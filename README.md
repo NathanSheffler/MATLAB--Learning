@@ -9,7 +9,7 @@ This repository documents my journey learning MATLAB and Simulink as a Mechanica
 - Document projects and certificates
 
 ## Courses Completed
-- [ ] MATLAB Onramp
+- [x] MATLAB Onramp
 - [ ] Simulink Onramp
 - [ ] Control Design Onramp
 - [ ] System Composer Onramp
