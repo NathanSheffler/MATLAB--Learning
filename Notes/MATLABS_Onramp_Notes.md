@@ -5,7 +5,7 @@ August 2026
 
 ## Lesson 1
 - Learned: 
-
+ 
 ## Lesson 2
 - Learned:
 
